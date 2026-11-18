@@ -1,0 +1,51 @@
+edad,genero,ocupacion,plataforma,horas_de_juego,genero_favorito,calificacion_1_al_10
+21,Masculino,Estudiante y trabajador,PC,9.3,Plataformas,7.3
+34,Masculino,Desarrollador/a de software,PlayStation 5,25.5,Acción-Aventura,8.2
+43,Femenino,Comerciante,Nintendo Switch,28.7,Plataformas,8.3
+29,Masculino,Arquitecto/a,PC,13.5,Deportes,9.9
+25,Femenino,Comerciante,Xbox Series X/S,5.2,Shooter,6.3
+22,Masculino,Médico/a,PC,33.0,Shooter,7.2
+43,Masculino,Arquitecto/a,PlayStation 5,15.1,Simulación,6.8
+35,Femenino,Médico/a,PC,19.1,Terror,7.1
+21,No binario,Estudiante,PC,29.6,Simulación,7.9
+40,Femenino,Diseñador/a,PlayStation 5,24.3,Simulación,7.5
+33,Masculino,Ingeniero/a,PlayStation 5,26.3,Simulación,7.6
+37,Masculino,Arquitecto/a,Xbox Series X/S,8.9,Simulación,9.4
+25,Femenino,Arquitecto/a,PC,19.9,Simulación,9.7
+25,Masculino,Mercadólogo/a,PC,25.0,Estrategia,6.3
+38,Masculino,Desarrollador/a de software,PC,9.5,Shooter,6.8
+35,Masculino,Estudiante universitario,PC,7.8,Simulación,8.7
+18,Masculino,Estudiante,PlayStation 5,34.4,Plataformas,7.4
+22,Femenino,Docente,PlayStation 5,19.0,Shooter,7.0
+38,Masculino,Estudiante universitario,PC,10.6,Shooter,7.2
+17,Femenino,Estudiante,PC,34.9,RPG,7.3
+36,Masculino,Desarrollador/a de software,PC,33.9,Estrategia,9.4
+35,Femenino,Estudiante universitario,Xbox Series X/S,20.4,Simulación,6.5
+16,Femenino,Estudiante y trabajador,Xbox Series X/S,31.1,Acción-Aventura,8.8
+38,Masculino,Comerciante,PC,8.2,Deportes,8.2
+26,No binario,Arquitecto/a,Móvil,11.2,Terror,7.2
+44,Femenino,Arquitecto/a,PC,25.1,Plataformas,7.7
+20,Femenino,Estudiante,Móvil,29.9,Acción-Aventura,7.0
+16,Femenino,Estudiante,PlayStation 5,30.3,Estrategia,8.4
+42,Femenino,Comerciante,PC,15.3,Deportes,6.3
+35,Femenino,Comerciante,PC,31.3,Estrategia,6.0
+15,Masculino,Estudiante,Xbox Series X/S,30.1,Plataformas,8.5
+26,Masculino,Estudiante universitario,Xbox Series X/S,32.9,Shooter,6.8
+40,Masculino,Arquitecto/a,PlayStation 5,27.9,Deportes,6.3
+36,Masculino,Ingeniero/a,PlayStation 5,24.1,Shooter,7.6
+43,Masculino,Contador/a,PlayStation 5,21.2,Plataformas,6.2
+26,Masculino,Contador/a,PlayStation 5,14.3,Acción-Aventura,9.5
+39,Femenino,Desarrollador/a de software,PC,33.0,Plataformas,6.1
+31,Masculino,Arquitecto/a,PlayStation 5,34.1,Acción-Aventura,8.3
+41,Masculino,Arquitecto/a,PC,11.4,Deportes,7.8
+41,Femenino,Contador/a,Nintendo Switch,12.1,Deportes,8.7
+45,Masculino,Arquitecto/a,PlayStation 5,18.0,Simulación,7.3
+24,Femenino,Estudiante universitario,Móvil,16.8,Estrategia,6.6
+42,Masculino,Docente,PlayStation 5,34.8,Simulación,9.9
+42,No binario,Diseñador/a,Nintendo Switch,7.8,Estrategia,9.4
+30,Femenino,Comerciante,Nintendo Switch,2.6,Simulación,9.4
+29,Masculino,Médico/a,PC,18.3,Shooter,7.0
+44,Masculino,Desarrollador/a de software,PlayStation 5,7.9,Deportes,6.2
+44,Femenino,Docente,Xbox Series X/S,14.1,Acción-Aventura,7.2
+29,Femenino,Contador/a,Nintendo Switch,26.6,Estrategia,8.1
+44,Femenino,Comerciante,PC,25.8,Plataformas,7.3
