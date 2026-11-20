@@ -1,0 +1,51 @@
+age,gender,occupation,platform,gaming_hours,favorite_genre,rating_1_to_10
+21,Male,Working student,PC,9.3,Platformer,7.3
+34,Male,Software developer,PlayStation 5,25.5,Action-Adventure,8.2
+43,Female,Merchant,Nintendo Switch,28.7,Platformer,8.3
+29,Male,Architect,PC,13.5,Sports,9.9
+25,Female,Merchant,Xbox Series X/S,5.2,Shooter,6.3
+22,Male,Doctor,PC,33.0,Shooter,7.2
+43,Male,Architect,PlayStation 5,15.1,Simulation,6.8
+35,Female,Doctor,PC,19.1,Horror,7.1
+21,Non-binary,Student,PC,29.6,Simulation,7.9
+40,Female,Designer,PlayStation 5,24.3,Simulation,7.5
+33,Male,Engineer,PlayStation 5,26.3,Simulation,7.6
+37,Male,Architect,Xbox Series X/S,8.9,Simulation,9.4
+25,Female,Architect,PC,19.9,Simulation,9.7
+25,Male,Marketer,PC,25.0,Strategy,6.3
+38,Male,Software developer,PC,9.5,Shooter,6.8
+35,Male,University student,PC,7.8,Simulation,8.7
+18,Male,Student,PlayStation 5,34.4,Platformer,7.4
+22,Female,Teacher,PlayStation 5,19.0,Shooter,7.0
+38,Male,University student,PC,10.6,Shooter,7.2
+17,Female,Student,PC,34.9,RPG,7.3
+36,Male,Software developer,PC,33.9,Strategy,9.4
+35,Female,University student,Xbox Series X/S,20.4,Simulation,6.5
+16,Female,Working student,Xbox Series X/S,31.1,Action-Adventure,8.8
+38,Male,Merchant,PC,8.2,Sports,8.2
+26,Non-binary,Architect,Mobile,11.2,Horror,7.2
+44,Female,Architect,PC,25.1,Platformer,7.7
+20,Female,Student,Mobile,29.9,Action-Adventure,7.0
+16,Female,Student,PlayStation 5,30.3,Strategy,8.4
+42,Female,Merchant,PC,15.3,Sports,6.3
+35,Female,Merchant,PC,31.3,Strategy,6.0
+15,Male,Student,Xbox Series X/S,30.1,Platformer,8.5
+26,Male,University student,Xbox Series X/S,32.9,Shooter,6.8
+40,Male,Architect,PlayStation 5,27.9,Sports,6.3
+36,Male,Engineer,PlayStation 5,24.1,Shooter,7.6
+43,Male,Accountant,PlayStation 5,21.2,Platformer,6.2
+26,Male,Accountant,PlayStation 5,14.3,Action-Adventure,9.5
+39,Female,Software developer,PC,33.0,Platformer,6.1
+31,Male,Architect,PlayStation 5,34.1,Action-Adventure,8.3
+41,Male,Architect,PC,11.4,Sports,7.8
+41,Female,Accountant,Nintendo Switch,12.1,Sports,8.7
+45,Male,Architect,PlayStation 5,18.0,Simulation,7.3
+24,Female,University student,Mobile,16.8,Strategy,6.6
+42,Male,Teacher,PlayStation 5,34.8,Simulation,9.9
+42,Non-binary,Designer,Nintendo Switch,7.8,Strategy,9.4
+30,Female,Merchant,Nintendo Switch,2.6,Simulation,9.4
+29,Male,Doctor,PC,18.3,Shooter,7.0
+44,Male,Software developer,PlayStation 5,7.9,Sports,6.2
+44,Female,Teacher,Xbox Series X/S,14.1,Action-Adventure,7.2
+29,Female,Accountant,Nintendo Switch,26.6,Strategy,8.1
+44,Female,Merchant,PC,25.8,Platformer,7.3
